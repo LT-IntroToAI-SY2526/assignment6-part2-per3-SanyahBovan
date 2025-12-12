@@ -7,10 +7,10 @@
 Based on your house price model, rank the four features from most important to least important. Explain how you determined this ranking.
 
 **YOUR ANSWER:**
-1. Most Important: 
-2. 
-3. 
-4. Least Important: 
+1. Most Important: Bedrooms
+2. Bathrooms
+3. Age
+4. Least Important: SquareFeet
 
 **Explanation:**
 
